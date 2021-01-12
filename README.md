@@ -1,6 +1,6 @@
-# Title
+# ChatBot
 
-Simple  description
+This is a ChatBot that has a short conversation with you, it's rough code but works. 
 
 ## Table of Contents
 
@@ -12,14 +12,13 @@ Simple  description
 
 ## Background
 
-This is why this application exists.
+I built this ChatBot for the Code2College Elite Qualifier Program. 
 
 ## Install
 
-These are the steps to setup your local environment to run this application.
+Simply copying the code in the Main.py file into repl or any other application that runs python code will make it work. 
 
 ## Usage
 
-These are the steps to use the application or interact with it.
+Simply run the code and answer the questions the bot asks you, sadly no matter what you say he says the same lines, so user error can't mess the bot up.
 
-### Any optional sections
