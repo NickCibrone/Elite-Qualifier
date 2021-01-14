@@ -22,3 +22,4 @@ Simply copying the code in the Main.py file into repl or any other application t
 
 Simply run the code and answer the questions the bot asks you, sadly no matter what you say he says the same lines, so user error can't mess the bot up.
 
+These guides are for the Code2College Elite101 class
