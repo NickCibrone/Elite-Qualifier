@@ -23,3 +23,11 @@ Simply copying the code in the Main.py file into repl or any other application t
 Simply run the code and answer the questions the bot asks you, sadly no matter what you say he says the same lines, so user error can't mess the bot up.
 
 These guides are for the Code2College Elite101 class
+
+## Test Plan
+
+To test the project:
+
+1.  Run the test
+2.  Check the results
+3. Create a test report
