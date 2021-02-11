@@ -20,10 +20,10 @@ def init_chat():
   quit_character = 'q'
   
     
-  user_input = input("Hello, what is your name?\n")
+  user_input = input("Hello, I am Chat Bob, if you want to talk intruduce yourself! If you want to end this conversation at anytime enter the character 'q'.\n")
   
   while user_input != quit_character:
-    user_input = input("That's a nice name, I have no name but you can call me dumber, clever may be superior to me but I still have moxie. How are you doing?\n")
+    user_input = input("Oh my it's nice to meet you! How are you doing?\n")
 
     user_input = input("Ah yes feelings, if only I as a program could understand what you meant better. What are you doing human?\n")
 
